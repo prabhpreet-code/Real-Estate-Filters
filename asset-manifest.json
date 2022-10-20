@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Real-Estate-Filters/static/css/main.20683173.css",
+    "main.js": "/Real-Estate-Filters/static/js/main.b1b345d7.js",
+    "static/js/787.baac0a83.chunk.js": "/Real-Estate-Filters/static/js/787.baac0a83.chunk.js",
+    "static/media/Logo.jpg": "/Real-Estate-Filters/static/media/Logo.5a19fbc7d809ec6647e4.jpg",
+    "index.html": "/Real-Estate-Filters/index.html",
+    "main.20683173.css.map": "/Real-Estate-Filters/static/css/main.20683173.css.map",
+    "main.b1b345d7.js.map": "/Real-Estate-Filters/static/js/main.b1b345d7.js.map",
+    "787.baac0a83.chunk.js.map": "/Real-Estate-Filters/static/js/787.baac0a83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20683173.css",
+    "static/js/main.b1b345d7.js"
+  ]
+}
