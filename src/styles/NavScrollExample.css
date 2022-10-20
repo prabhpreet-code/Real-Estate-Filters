@@ -1,0 +1,14 @@
+.navbar__logo {
+  height: 100px;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: rgb(157 29 33) !important;
+}
+
+.navbar__center {
+  font-size: 1.2rem !important;
+  width: 50vw !important;
+  justify-content: space-between !important;
+}
